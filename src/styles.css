@@ -1,0 +1,27 @@
+body {
+  background-color: blueviolet;
+}
+
+.content {
+  background-image: url("images/celebration-1852926_960_720.jpg");
+  background-size: cover;
+  height: 100vh;
+  margin: 20px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.about img {
+  height: 200px;
+}
